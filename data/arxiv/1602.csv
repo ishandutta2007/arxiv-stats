@@ -1,0 +1,515 @@
+arXiv:1602.00047, Title: A Scalable Blocked Gibbs Sampling Algorithm For Gaussian And Poisson  Regression Models
+arXiv:1602.00109, Title: A nonparametric copula density estimator incorporating information on  bivariate marginals
+arXiv:1602.00133, Title: SCOPE: Scalable Composite Optimization for Learning on Spark
+arXiv:1602.00136, Title: Trace-class Monte Carlo Markov Chains for Bayesian Multivariate Linear  Regression with Non-Gaussian Errors
+arXiv:1602.00158, Title: Introduction to Implicit Regression
+arXiv:1602.00175, Title: Sharp moment and exponential tail estimates for U-statistics
+arXiv:1602.00180, Title: On the Geometry and Extremal Properties of the Edge-Degeneracy Model
+arXiv:1602.00197, Title: A Bayesian nonparametric chi-squared goodness-of-fit test
+arXiv:1602.00199, Title: Gaussian approximation for the sup-norm of high-dimensional  matrix-variate U-statistics and its applications
+arXiv:1602.00202, Title: Bayesian stochastic volatility models for high-frequency data
+arXiv:1602.00207, Title: Binomial and Multinomial Proportions: Accurate Estimation and Reliable  Assessment of Accuracy
+arXiv:1602.00214, Title: Dimensionality Reduction via Regression in Hyperspectral Imagery
+arXiv:1602.00216, Title: Feature Selection for Regression Problems Based on the Morisita  Estimator of Intrinsic Dimension
+arXiv:1602.00221, Title: Principal Polynomial Analysis
+arXiv:1602.00229, Title: Iterative Gaussianization: from ICA to Random Rotations
+arXiv:1602.00236, Title: Nonlinearities and Adaptation of Color Vision from Sequential Principal  Curves Analysis
+arXiv:1602.00245, Title: Statistical methods for linguistic research: Foundational Ideas - Part  II
+arXiv:1602.00256, Title: Some Contra-Arguments for the Use of Stable Distributions in Financial  Modeling
+arXiv:1602.00260, Title: DOLDA - a regularized supervised topic model for high-dimensional  multi-class regression
+arXiv:1602.00287, Title: Additive Approximations in High Dimensional Nonparametric Regression via  the SALSA
+arXiv:1602.00346, Title: Efficient moment calculations for variance components in large  unbalanced crossed random effects models
+arXiv:1602.00354, Title: Active Learning Algorithms for Graphical Model Selection
+arXiv:1602.00355, Title: A Spectral Series Approach to High-Dimensional Nonparametric Regression
+arXiv:1602.00357, Title: DeepCare: A Deep Dynamic Memory Model for Predictive Medicine
+arXiv:1602.00359, Title: Confidence intervals for means under constrained dependence
+arXiv:1602.00360, Title: Semi-supervised K-means++
+arXiv:1602.00522, Title: A Quasi-Bayesian Perspective to Online Clustering
+arXiv:1602.00531, Title: Adaptive non-parametric estimation in the presence of dependence
+arXiv:1602.00564, Title: Conditional Estimation in Two-stage Adaptive Designs
+arXiv:1602.00719, Title: Robust Covariance Estimation for Approximate Factor Models
+arXiv:1602.00769, Title: Small-sample testing inference in symmetric and log-symmetric linear  regression models
+arXiv:1602.00856, Title: Dynamic Model Averaging for Bayesian Quantile Regression
+arXiv:1602.00869, Title: Non-Gaussian semi-stable laws arising in sampling of finite point  processes
+arXiv:1602.00879, Title: Independent component analysis for tensor-valued data
+arXiv:1602.00886, Title: Analysis of the Forward Search using some new results for martingales  and empirical processes
+arXiv:1602.00947, Title: Closed form estimates for missing counts in multidimensional incomplete  tables
+arXiv:1602.00954, Title: Evaluation of missing data mechanisms in two and three dimensional  incomplete tables
+arXiv:1602.00989, Title: Interval Estimation of Frequency over Time with Subsampling Variance:  Coinage from the Roman Peasant Project
+arXiv:1602.01051, Title: Control Function Instrumental Variable Estimation of Nonlinear Causal  Effect Models
+arXiv:1602.01052, Title: Better safe than sorry: Risky function exploitation through safe  optimization
+arXiv:1602.01063, Title: Comparative Study of Differentially Private Data Synthesis Methods
+arXiv:1602.01064, Title: Minimum Regret Search for Single- and Multi-Task Optimization
+arXiv:1602.01120, Title: On the Nyström and Column-Sampling Methods for the Approximate  Principal Components Analysis of Large Data Sets
+arXiv:1602.01132, Title: Interactive algorithms: from pool to stream
+arXiv:1602.01160, Title: Variable selection via penalized credible regions with Dirichlet-Laplace  global-local shrinkage priors
+arXiv:1602.01182, Title: High-Dimensional Regularized Discriminant Analysis
+arXiv:1602.01192, Title: Prediction models for network-linked data
+arXiv:1602.01196, Title: Principal stratification analysis using principal scores
+arXiv:1602.01206, Title: denoiseR: A Package for Low Rank Matrix Estimation
+arXiv:1602.01213, Title: Maximum leave-one-out likelihood estimation for location parameter of  unbounded densities
+arXiv:1602.01254, Title: A computationally efficient nonparametric approach for changepoint  detection
+arXiv:1602.01262, Title: Hidden Regular Variation under Full and Strong Asymptotic Dependence
+arXiv:1602.01269, Title: Frequentistic approximations to Bayesian prevision of exchangeable  random elements
+arXiv:1602.01345, Title: A Probabilistic Modeling Approach to Hearing Loss Compensation
+arXiv:1602.01347, Title: Bayesian prediction for physical models with application to the  optimization of the synthesis of pharmaceutical products using chemical  kinetics
+arXiv:1602.01355, Title: Near-Optimality of Linear Recovery in Gaussian Observation Scheme under  $\|\cdot\|_2^2$-Loss
+arXiv:1602.01370, Title: Sensory evaluation of commercial coffee brands in Colombia
+arXiv:1602.01407, Title: A Kronecker-factored approximate Fisher matrix for convolution layers
+arXiv:1602.01445, Title: Sequential Bayesian Analysis of Multivariate Count Data
+arXiv:1602.01522, Title: Risk estimation for high-dimensional lasso regression
+arXiv:1602.01650, Title: Bayesian Nonparametric System Reliability using Sets of Priors
+arXiv:1602.01729, Title: Correntropy Maximization via ADMM - Application to Robust Hyperspectral  Unmixing
+arXiv:1602.01787, Title: Efficient Estimation of Semiparametric Transformation Models for the  Cumulative Incidence of Competing Risks
+arXiv:1602.01788, Title: Semiparametric Regression Analysis of Interval-Censored Competing Risks  Data
+arXiv:1602.01915, Title: Clustering action potential spikes: Insights on the use of overfitted  finite mixture models and Dirichlet process mixture models
+arXiv:1602.01942, Title: Prediction of weakly locally stationary processes by auto-regression
+arXiv:1602.01951, Title: Greedy algorithms for prediction
+arXiv:1602.01955, Title: Exchangeable exogenous shock models
+arXiv:1602.02055, Title: Hierarchical expectation propagation for Bayesian aggregation of average  data
+arXiv:1602.02071, Title: The Wild Bootstrap for Multivariate Nelson-Aalen Estimators
+arXiv:1602.02092, Title: Large deviations and concentration inequalities for the  Ornstein-Uhlenbeck process without tears
+arXiv:1602.02114, Title: Exchangeable Random Measures for Sparse and Modular Graphs with  Overlapping Communities
+arXiv:1602.02137, Title: Classification methods applied to credit scoring: A systematic review  and overall comparison
+arXiv:1602.02164, Title: A Note on Alternating Minimization Algorithm for the Matrix Completion  Problem
+arXiv:1602.02176, Title: Regularization and confounding in linear regression for treatment effect  estimation
+arXiv:1602.02181, Title: Active Information Acquisition
+arXiv:1602.02184, Title: Maximum Likelihood Estimation for Semiparametric Transformation Models  with Interval-Censored Data
+arXiv:1602.02187, Title: Using particle swarm optimization to search for locally $D$-optimal  designs for mixed factor experiments with binary response
+arXiv:1602.02191, Title: Convex Relaxation Regression: Black-Box Optimization of Smooth Functions  by Learning Their Convex Envelopes
+arXiv:1602.02198, Title: Robustness Metric for Quantifying Causal Model Confidence and Parameter  Uncertainty
+arXiv:1602.02200, Title: Rebuttal of the 'Letter to the Editor' of Annals of Applied Statistics  on Lambert W x F Distributions and the IGMM Algorithm
+arXiv:1602.02219, Title: Variational Hamiltonian Monte Carlo via Score Matching
+arXiv:1602.02279, Title: An algorithm for approximating the second moment of the normalizing  constant estimate from a particle filter
+arXiv:1602.02282, Title: Ladder Variational Autoencoders
+arXiv:1602.02285, Title: A Deep Learning Approach to Unsupervised Ensemble Learning
+arXiv:1602.02311, Title: Rényi Divergence Variational Inference
+arXiv:1602.02330, Title: The Diffusion Geometry of Fibre Bundles: Horizontal Diffusion Maps
+arXiv:1602.02345, Title: Control of Directional Errors in Fixed Sequence Multiple Testing
+arXiv:1602.02355, Title: Hyperparameter optimization with approximate gradient
+arXiv:1602.02373, Title: Supervised and Semi-Supervised Text Categorization using LSTM for Region  Embeddings
+arXiv:1602.02386, Title: Network Inference by Learned Node-Specific Degree Prior
+arXiv:1602.02398, Title: Non-Stationary Dynamic Factor Models for Large Datasets
+arXiv:1602.02408, Title: Lasso Estimation of an Interval-Valued Multiple Regression Model
+arXiv:1602.02435, Title: A Multi-Resolution Spatio-Temporal Model for Brain Activation and  Connectivity in fMRI Data
+arXiv:1602.02442, Title: A Simple Practical Accelerated Method for Finite Sums
+arXiv:1602.02466, Title: Overfitting hidden Markov models with an unknown number of states
+arXiv:1602.02485, Title: Simultaneous Safe Screening of Features and Samples in Doubly Sparse  Modeling
+arXiv:1602.02491, Title: Two-sample tests for high-dimension, strongly spiked eigenvalue models
+arXiv:1602.02499, Title: The "Sprekend Nederland" project and its application to accent location
+arXiv:1602.02514, Title: Fast K-Means with Accurate Bounds
+arXiv:1602.02523, Title: Data-Efficient Reinforcement Learning in Continuous-State POMDPs
+arXiv:1602.02539, Title: Just Another Gibbs Additive Modeller: Interfacing JAGS and mgcv
+arXiv:1602.02542, Title: Dynamic Spatial Autoregressive Models with Autoregressive and  Heteroskedastic Disturbances
+arXiv:1602.02575, Title: DECOrrelated feature space partitioning for distributed sparse  regression
+arXiv:1602.02605, Title: Statistical estimate of the proportional hazard premium of loss under  random censoring
+arXiv:1602.02606, Title: Hidden Gibbs random fields model selection using Block Likelihood  Information Criterion
+arXiv:1602.02616, Title: Guarantees in Wasserstein Distance for the Langevin Monte Carlo  Algorithm
+arXiv:1602.02666, Title: A Variational Analysis of Stochastic Gradient Algorithms
+arXiv:1602.02701, Title: Compressed Online Dictionary Learning for Fast fMRI Decomposition
+arXiv:1602.02736, Title: Probabilistic modeling and global sensitivity analysis for $CO_2$  storage in geological formations: a spectral approach
+arXiv:1602.02842, Title: Collaborative filtering via sparse Markov random fields
+arXiv:1602.02845, Title: Online Active Linear Regression via Thresholding
+arXiv:1602.02850, Title: Toward Optimal Feature Selection in Naive Bayes for Text Categorization
+arXiv:1602.02852, Title: Compliance-Aware Bandits
+arXiv:1602.02854, Title: On Stepwise Control of Directional Errors under Independence and Some  Dependence
+arXiv:1602.02861, Title: A model for risk assessment of a large earthquake with application to  Chilean data
+arXiv:1602.02882, Title: On the smallest eigenvalues of covariance matrices of multivariate  spatial processes
+arXiv:1602.02889, Title: Ergodicity of Markov chain Monte Carlo with reversible proposal
+arXiv:1602.02891, Title: On the analysis of tuberculosis studies with intermittent missing sputum  data
+arXiv:1602.02895, Title: Identifying heterogeneous transgenerational DNA methylation sites via  clustering in beta regression
+arXiv:1602.02898, Title: Modeling competition between two pharmaceutical drugs using innovation  diffusion models
+arXiv:1602.02900, Title: "Virus hunting" using radial distance weighted discrimination
+arXiv:1602.02902, Title: A stochastic space-time model for intermittent precipitation occurrences
+arXiv:1602.02905, Title: Long time behavior of stochastic hard ball systems
+arXiv:1602.02907, Title: Simulation of volatility modulated Volterra processes using hyperbolic  stochastic partial differential equations
+arXiv:1602.02908, Title: Statistical development and assessment of summary measures to account  for isotopic clustering of Fourier transform mass spectrometry data in  clinical diagnostic studies
+arXiv:1602.02934, Title: Nested Mini-Batch K-Means
+arXiv:1602.02964, Title: A Kernel Test of Goodness of Fit
+arXiv:1602.03014, Title: Herding as a Learning System with Edge-of-Chaos Dynamics
+arXiv:1602.03027, Title: Minimax Lower Bounds for Realizable Transductive Classification
+arXiv:1602.03048, Title: Bayesian nonparametric image segmentation using a generalized  Swendsen-Wang algorithm
+arXiv:1602.03090, Title: Differentially Private Chi-Squared Hypothesis Testing: Goodness of Fit  and Independence Testing
+arXiv:1602.03131, Title: Large scale multi-objective optimization: Theoretical and practical  challenges
+arXiv:1602.03220, Title: Discriminative Regularization for Generative Models
+arXiv:1602.03253, Title: A Kernelized Stein Discrepancy for Goodness-of-fit Tests and Model  Evaluation
+arXiv:1602.03264, Title: A Theory of Generative ConvNet
+arXiv:1602.03368, Title: Fast model selection by limiting SVM training times
+arXiv:1602.03386, Title: Measuring Blood Glucose Concentrations in Photometric Glucometers  Requiring Very Small Sample Volumes
+arXiv:1602.03423, Title: Bayesian Evidence Accumulation in Experimental Mathematics: A Case Study  of Four Irrational Numbers
+arXiv:1602.03427, Title: Aggregation of supports along the Lasso path
+arXiv:1602.03429, Title: Graphical models for studying museum networks: the Abbonamento Musei  Torino Piemonte
+arXiv:1602.03436, Title: High-Dimensional Estimation of Structured Signals from Non-Linear  Observations with General Convex Loss Functions
+arXiv:1602.03442, Title: Stochastic Quasi-Newton Langevin Monte Carlo
+arXiv:1602.03534, Title: Unsupervised Transductive Domain Adaptation
+arXiv:1602.03572, Title: Effective Sample Size for Importance Sampling based on discrepancy  measures
+arXiv:1602.03574, Title: A knockoff filter for high-dimensional selective inference
+arXiv:1602.03589, Title: The knockoff filter for FDR control in group-sparse and multitask  regression
+arXiv:1602.03600, Title: Data-Driven Online Decision Making with Costly Information Acquisition
+arXiv:1602.03649, Title: Bayesian Filtering of Smooth Signals: Application to Altimetry
+arXiv:1602.03658, Title: A randomized maximum a posterior method for posterior sampling of high  dimensional nonlinear Bayesian inverse problems
+arXiv:1602.03670, Title: Online Low-Rank Subspace Learning from Incomplete Data: A Bayesian View
+arXiv:1602.03683, Title: A Universal Approximation Theorem for Mixture of Experts Models
+arXiv:1602.03692, Title: Maximum Likelihood Estimation of Triangular and Polygonal Distributions
+arXiv:1602.03697, Title: Linear Mixed Models with Marginally Symmetric Nonparametric Random  Effects
+arXiv:1602.03727, Title: Resampling-based inference methods for comparing two coefficient alpha
+arXiv:1602.03760, Title: Extending Hypothesis Testing with Persistence Homology to Three or More  Groups
+arXiv:1602.03794, Title: Optimal designs for regression models with autoregressive errors  structure
+arXiv:1602.03807, Title: Variational Inference for Sparse and Undirected Models
+arXiv:1602.03855, Title: A Statistical Framework for Single Subject Design with an Application in  Post-stroke Rehabilitation
+arXiv:1602.03861, Title: Unified Statistical Theory of Spectral Graph Analysis
+arXiv:1602.03915, Title: Randomization-Based Causal Inference from Unbalanced 2^2 Split-Plot  Designs
+arXiv:1602.03926, Title: Modelling the level of adoption of analytical tools; An implementation  of multi-criteria evidential reasoning
+arXiv:1602.03938, Title: Minimax and minimax projection designs using clustering
+arXiv:1602.03940, Title: A regional compound Poisson process for hurricane and tropical storm  damage
+arXiv:1602.03943, Title: Second-Order Stochastic Optimization for Machine Learning in Linear Time
+arXiv:1602.03950, Title: General Vector Machine
+arXiv:1602.03972, Title: On Randomization-based and Regression-based Inferences for 2^K Factorial  Designs
+arXiv:1602.03990, Title: Efficient functional ANOVA through wavelet-domain Markov groves
+arXiv:1602.03992, Title: Orthogonal Sparse PCA and Covariance Estimation via Procrustes  Reformulation
+arXiv:1602.04060, Title: Discrete approximation of a mixture distribution via restricted  divergence
+arXiv:1602.04091, Title: Interactive graphics for functional data analyses
+arXiv:1602.04102, Title: Estimating perimeter using graph cuts
+arXiv:1602.04107, Title: A Max-Correlation White Noise Test for Weakly Dependent Time Series
+arXiv:1602.04117, Title: Non-asymptotic Confidence Sets for Extrinsic Means on Spheres and  Projective Spaces
+arXiv:1602.04133, Title: Deep Gaussian Processes for Regression using Approximate Expectation  Propagation
+arXiv:1602.04139, Title: Quantile-based bias correction and uncertainty quantification of extreme  event attribution statements
+arXiv:1602.04227, Title: Scale-free network optimization: foundations and algorithms
+arXiv:1602.04265, Title: Lasso Guarantees for Time Series Estimation Under Subgaussian Tails and  $ β$-Mixing
+arXiv:1602.04282, Title: Conservative Bandits
+arXiv:1602.04287, Title: A Minimax Theory for Adaptive Data Analysis
+arXiv:1602.04310, Title: Adaptive test for large covariance matrices with missing observations
+arXiv:1602.04330, Title: Manifolds of Projective Shapes
+arXiv:1602.04361, Title: Minimax Estimation of Kernel Mean Embeddings
+arXiv:1602.04379, Title: Adaptive Filter for Automatic Identification of Multiple Faults in a  Noisy OTDR Profile
+arXiv:1602.04387, Title: Large-Sample Theory for the Bergsma-Dassios Sign Covariance
+arXiv:1602.04391, Title: Constrained Multi-Slot Optimization for Ranking Recommendations
+arXiv:1602.04398, Title: Joint Dimensionality Reduction for Two Feature Vectors
+arXiv:1602.04418, Title: Identifiability Assumptions and Algorithm for Directed Graphical Models  with Feedback
+arXiv:1602.04439, Title: Residual-Bridge Constructs for Conditioned Diffusions
+arXiv:1602.04474, Title: Generalization Properties of Learning with Random Features
+arXiv:1602.04528, Title: Hierarchical multivariate space-time methods for modeling counts with an  application to stroke mortality data
+arXiv:1602.04548, Title: Safe Pattern Pruning: An Efficient Approach for Predictive Pattern  Mining
+arXiv:1602.04565, Title: A common misapplication of statistical inference: nuisance control with  null-hypothesis significance tests
+arXiv:1602.04579, Title: Secure Approximation Guarantee for Cryptographically Private Empirical  Risk Minimization
+arXiv:1602.04589, Title: Optimal Best Arm Identification with Fixed Confidence
+arXiv:1602.04601, Title: Selective Inference Approach for Statistically Sound Predictive Pattern  Mining
+arXiv:1602.04676, Title: Maximin Action Identification: A New Bandit Framework for Games
+arXiv:1602.04721, Title: Evaluating hospital infection control measures for  antimicrobial-resistant pathogens using stochastic transmission models:  application to Vancomycin-Resistant Enterococci in intensive care units
+arXiv:1602.04805, Title: DR-ABC: Approximate Bayesian Computation with Kernel-Based Distribution  Regression
+arXiv:1602.04850, Title: Memory properties of transformations of linear processes
+arXiv:1602.04862, Title: Local-likelihood transformation kernel density estimation for positive  random variables
+arXiv:1602.04910, Title: Bayesian generalized fused lasso modeling via NEG distribution
+arXiv:1602.04912, Title: Uniform {\varepsilon}-Stability of Distributed Nonlinear Filtering over  DNAs: Gaussian-Finite HMMs
+arXiv:1602.04915, Title: Gradient Descent Converges to Minimizers
+arXiv:1602.04941, Title: On Perfect Classification for Gaussian Processes
+arXiv:1602.04976, Title: Stochastic Process Bandits: Upper Confidence Bounds Algorithms via  Generic Chaining
+arXiv:1602.05003, Title: The Multivariate Generalised von Mises distribution: Inference and  applications
+arXiv:1602.05012, Title: A Subsequence Interleaving Model for Sequential Pattern Mining
+arXiv:1602.05023, Title: An introduction to sampling via measure transport
+arXiv:1602.05048, Title: Do Public Events Affect Sex Trafficking Activity?
+arXiv:1602.05069, Title: Robust Covariance Matrix Estimation for Radar Space-Time Adaptive  Processing (STAP)
+arXiv:1602.05125, Title: Locally Stationary Functional Time Series
+arXiv:1602.05128, Title: Interacting Particle Markov Chain Monte Carlo
+arXiv:1602.05149, Title: Parallel Bayesian Global Optimization of Expensive Functions
+arXiv:1602.05155, Title: A Dirichlet Process Functional Approach to Heteroscedastic-Consistent  Covariance Estimation
+arXiv:1602.05162, Title: A Bayes interpretation of stacking for M-complete and M-open settings
+arXiv:1602.05208, Title: Smoothing spline ANOVA for super-large samples: Scalable computation via  rounding parameters
+arXiv:1602.05221, Title: Patterns of Scalable Bayesian Inference
+arXiv:1602.05236, Title: A Sparse PCA Approach to Clustering
+arXiv:1602.05238, Title: A Unified Monte-Carlo Jackknife for Small Area Estimation after Model  Selection
+arXiv:1602.05285, Title: Choice by Elimination via Deep Neural Networks
+arXiv:1602.05349, Title: Modeling Dependence Dynamics of Air Pollution: Pollution Risk Simulation  and Prediction of PM$_{2.5}$ Levels
+arXiv:1602.05394, Title: Online optimization and regret guarantees for non-additive long-term  constraints
+arXiv:1602.05399, Title: Modeling CD4+ T cells dynamics in HIV-infected patients receiving  repeated cycles of exogenous Interleukin 7
+arXiv:1602.05436, Title: Low-Rank Factorization of Determinantal Point Processes for  Recommendation
+arXiv:1602.05450, Title: Inverse Reinforcement Learning in Swarm Systems
+arXiv:1602.05453, Title: On Stochastic Comparisons for Load-Sharing Series and Parallel Systems
+arXiv:1602.05454, Title: Some Reliability Properties of Transformed-Transformer Family of  Distributions
+arXiv:1602.05455, Title: Heterogeneity Adjustment with Applications to Graphical Model Inference
+arXiv:1602.05473, Title: Auxiliary Deep Generative Models
+arXiv:1602.05522, Title: Central limit theorems for functionals of large sample covariance matrix  and mean vector in matrix-variate location mixture of normal distributions
+arXiv:1602.05523, Title: Eigen-Epistasis for detecting Gene-Gene interactions
+arXiv:1602.05540, Title: Robust Covariance Estimation under Imperfect Constraints using an  Expected Likelihood Approach
+arXiv:1602.05549, Title: Continuous Monitoring of A/B Tests without Pain: Optional Stopping in  Bayesian Testing
+arXiv:1602.05563, Title: Robust Kernel (Cross-) Covariance Operators in Reproducing Kernel  Hilbert Space toward Kernel Methods
+arXiv:1602.05665, Title: Incorporating Hierarchical Structure Into Dynamic Systems: An  Application Of Estimating HIV Epidemics At Sub-National And Sub-Population  Level
+arXiv:1602.05731, Title: Dynamic Modelling of Health and its application to the large scale  analysis of Body Mass Index, using data from consecutive set of surveys
+arXiv:1602.05757, Title: A two-step approach to account for unobserved spatial heterogeneity
+arXiv:1602.05761, Title: Consistency of direct integral estimator for partially observed systems  of ordinary differential equations linear in the parameters
+arXiv:1602.05762, Title: Modelling Spatial Regimes in Farms Technologies
+arXiv:1602.05795, Title: Examination and visualisation of the simplifying assumption for vine  copulas in three dimensions
+arXiv:1602.05801, Title: Leave-one-out prediction intervals in linear regression models with many  variables
+arXiv:1602.05822, Title: What is the distribution of the number of unique original items in a  bootstrap sample?
+arXiv:1602.05875, Title: Convolutional RNN: an Enhanced Model for Extracting Features from  Sequential Data
+arXiv:1602.05885, Title: Goodness-of-Fit Test: Khmaladze Transformation vs Empirical Likelihood
+arXiv:1602.05894, Title: Evaluating Surrogate Marker Information using Censored Data
+arXiv:1602.05906, Title: Estimating the turning point location in shifted exponential model of  time series
+arXiv:1602.05907, Title: Trend extraction in functional data of R and T waves amplitudes of  exercise electrocardiogram
+arXiv:1602.05986, Title: A Poisson process model for Monte Carlo
+arXiv:1602.06028, Title: Generalized Gaussian Mechanism for Differential Privacy
+arXiv:1602.06030, Title: Sampling latent states for high-dimensional non-linear state space  models with the embedded HMM method
+arXiv:1602.06042, Title: Structured Sparse Regression via Greedy Hard-Thresholding
+arXiv:1602.06049, Title: Scaling up Dynamic Topic Models
+arXiv:1602.06202, Title: Nonparametric Functional Calibration of Computer Models
+arXiv:1602.06218, Title: Efficient computation of Sobol' indices for stochastic models
+arXiv:1602.06225, Title: GAP Safe Screening Rules for Sparse-Group-Lasso
+arXiv:1602.06230, Title: Sparse Signal Detection with Compressive Measurements via Partial  Support Set Estimation
+arXiv:1602.06235, Title: A Mutual Contamination Analysis of Mixed Membership and Partial Label  Models
+arXiv:1602.06276, Title: Semi-parametric Order-based Generalized Multivariate Regression
+arXiv:1602.06316, Title: Model-based clustering with data correction for removing artifacts in  gene expression data
+arXiv:1602.06318, Title: A unified framework for spline estimators
+arXiv:1602.06346, Title: Policy Error Bounds for Model-Based Reinforcement Learning with Factored  Linear Models
+arXiv:1602.06349, Title: The Segmented iHMM: A Simple, Efficient Hierarchical Infinite HMM
+arXiv:1602.06366, Title: Robust Estimation of Propensity Score Weights via Subclassification
+arXiv:1602.06383, Title: Testing hypotheses about mixture distributions using not identically  distributed data
+arXiv:1602.06410, Title: Semidefinite Programs for Exact Recovery of a Hidden Community
+arXiv:1602.06429, Title: Generalized Statistical Tests for mRNA and Protein Subcellular Spatial  Patterning against Complete Spatial Randomness
+arXiv:1602.06431, Title: Burstiness Scale: a highly parsimonious model for characterizing random  series of events
+arXiv:1602.06518, Title: Multi-Task Learning with Labeled and Unlabeled Tasks
+arXiv:1602.06531, Title: Multi-task and Lifelong Learning of Kernels
+arXiv:1602.06570, Title: A multivariate mixed hidden Markov model to analyze blue whale diving  behaviour during controlled sound exposures
+arXiv:1602.06577, Title: 2-Bit Random Projections, NonLinear Estimators, and Approximate Near  Neighbor Search
+arXiv:1602.06579, Title: Analytic queueing model for ambulance services
+arXiv:1602.06595, Title: Principal stratification in the Twilight Zone: Weakly separated  components in finite mixture models
+arXiv:1602.06606, Title: Estimating Structured Vector Autoregressive Model
+arXiv:1602.06609, Title: Nonparametric and Varying Coefficient Modal Regression
+arXiv:1602.06610, Title: Mixture of Regression Models with Single-Index
+arXiv:1602.06612, Title: Clustering subgaussian mixtures by semidefinite programming
+arXiv:1602.06693, Title: Preconditioning Kernel Matrices
+arXiv:1602.06696, Title: A note on basis dimension selection in generalized additive modelling
+arXiv:1602.06701, Title: Inference Networks for Sequential Monte Carlo in Graphical Models
+arXiv:1602.06717, Title: A Method for Detecting Life-Threatening Signals in Serum Potassium Level  after Myocardial Infarction
+arXiv:1602.06885, Title: Joint ML calibration and DOA estimation with separated arrays
+arXiv:1602.06886, Title: Clustering with a Reject Option: Interactive Clustering as Bayesian  Prior Elicitation
+arXiv:1602.06896, Title: Sharp detection in PCA under correlations: all eigenvalues matter
+arXiv:1602.06916, Title: Sparse Linear Regression via Generalized Orthogonal Least-Squares
+arXiv:1602.06972, Title: Modelling collinear and spatially correlated data
+arXiv:1602.06989, Title: Recovering the number of clusters in data sets with noise features using  feature rescaling factors
+arXiv:1602.07043, Title: Auditing Black-box Models for Indirect Influence
+arXiv:1602.07046, Title: An Improved Gap-Dependency Analysis of the Noisy Power Method
+arXiv:1602.07056, Title: The two subset recurrent property of Markov chains
+arXiv:1602.07107, Title: A Streaming Algorithm for Crowdsourced Data Classification
+arXiv:1602.07109, Title: Variational Inference for On-line Anomaly Detection in High-Dimensional  Time Series
+arXiv:1602.07182, Title: Explore First, Exploit Next: The True Shape of Regret in Bandit Problems
+arXiv:1602.07194, Title: Lens depth function and k-relative neighborhood graph: versatile tools  for ordinal data analysis
+arXiv:1602.07228, Title: Variable Effects of Climate on Forest Growth in Relation to Climate  Extremes, Disturbance, and Forest Stand Dynamics
+arXiv:1602.07277, Title: A Simple Approach to Sparse Clustering
+arXiv:1602.07280, Title: A Statistical Model for Stroke Outcome Prediction and Treatment Planning
+arXiv:1602.07290, Title: Reliability estimates for three factor score predictors
+arXiv:1602.07337, Title: Sparse Estimation of Multivariate Poisson Log-Normal Models from Count  Data
+arXiv:1602.07358, Title: Post-selection inference for L1-penalized likelihood models
+arXiv:1602.07387, Title: Discrete Distribution Estimation under Local Privacy
+arXiv:1602.07412, Title: Fast Approximate Inference for Arbitrarily Large Semiparametric  Regression Models via Message Passing
+arXiv:1602.07440, Title: On the Kozachenko-Leonenko entropy estimator
+arXiv:1602.07527, Title: Differentiation of the Cholesky decomposition
+arXiv:1602.07559, Title: Regression of ranked responses when raw responses are censored
+arXiv:1602.07586, Title: A parsimonious theory of evidence-based choice
+arXiv:1602.07587, Title: Blockmodels: A R-package for estimating in Latent Block Model and  Stochastic Block Model, with various probability functions, with or without  covariates
+arXiv:1602.07640, Title: A Variational Algorithm for Bayesian Variable Selection
+arXiv:1602.07754, Title: A Compressed Sensing Based Decomposition of Electrodermal Activity  Signals
+arXiv:1602.07800, Title: Towards Unifying Hamiltonian Monte Carlo and Slice Sampling
+arXiv:1602.07836, Title: A Bayesian baseline for belief in uncommon events
+arXiv:1602.07863, Title: Learning Gaussian Graphical Models With Fractional Marginal  Pseudo-likelihood
+arXiv:1602.07865, Title: Projected Estimators for Robust Semi-supervised Classification
+arXiv:1602.07933, Title: Bootstrap Inference when Using Multiple Imputation
+arXiv:1602.07960, Title: Measuring and Discovering Correlations in Large Data Sets
+arXiv:1602.08006, Title: Adaptive estimation of High-Dimensional Signal-to-Noise Ratios
+arXiv:1602.08048, Title: Denoising Flows on Trees
+arXiv:1602.08062, Title: Probabilistic community detection with unknown number of communities
+arXiv:1602.08066, Title: Scalable semiparametric inference for the means of heavy-tailed  distributions
+arXiv:1602.08154, Title: Efficient Bayesian Inference for Multivariate Factor Stochastic  Volatility Models
+arXiv:1602.08181, Title: Ratios and Cauchy Distribution
+arXiv:1602.08194, Title: Scalable and Sustainable Deep Learning via Randomized Hashing
+arXiv:1602.08296, Title: Multiple testing of local maxima for detection of peaks on the  (celestial) sphere
+arXiv:1602.08307, Title: A note on Maximum Likelihood Estimation for cubic and quartic canonical  toric del Pezzo Surfaces
+arXiv:1602.08355, Title: On short-term traffic flow forecasting and its reliability
+arXiv:1602.08360, Title: A flexible multivariate random effects proportional odds model with  application to adverse effects during radiation therapy
+arXiv:1602.08418, Title: Multivariate Hawkes Processes for Large-scale Inference
+arXiv:1602.08450, Title: Objective Bayesian Analysis for the Lomax Distribution
+arXiv:1602.08521, Title: Theoretical Properties and Practical Performance of Fully Robust  One-Sided Cross-Validation
+arXiv:1602.08548, Title: Modifications of Wald's score tests on large dimensional covariance  matrices structure
+arXiv:1602.08558, Title: Convergence properties of Gibbs samplers for Bayesian probit regression  with proper priors
+arXiv:1602.08590, Title: Maximum-a-posteriori estimation with Bayesian confidence regions
+arXiv:1602.08644, Title: Relationship Between the Uncompensated Price-Elasticity and the  Income-Elasticity of Demand Under Conditions of Additive Preferences
+arXiv:1602.08654, Title: Testing for parameter change in general integer-valued time series
+arXiv:1602.08678, Title: Robust hyperparameter estimation protects against hypervariable genes  and improves power to detect differential expression
+arXiv:1602.08696, Title: Modelling of lung cancer survival data for critical illness insurances
+arXiv:1602.08734, Title: A Structured Variational Auto-encoder for Learning Deep Hierarchies of  Sparse Features
+arXiv:1602.08753, Title: Stability and Structural Properties of Gene Regulation Networks with  Coregulation Rules
+arXiv:1602.08754, Title: Adjusting for Scorekeeper Bias in NBA Box Scores
+arXiv:1602.08761, Title: Resource Constrained Structured Prediction
+arXiv:1602.08773, Title: Macro vs. Micro Methods in Non-Life Claims Reserving (an Econometric  Perspective)
+arXiv:1602.08780, Title: Does quantification without adjustments work?
+arXiv:1602.08787, Title: Maximum Pseudolikelihood Estimation for Model-Based Clustering of Time  Series Data
+arXiv:1602.08793, Title: Inference in Functional Linear Quantile Regression
+arXiv:1602.08807, Title: Exploratory data analysis for moderate extreme values using  non-parametric kernel methods
+arXiv:1602.08849, Title: Flexible online multivariate regression with variational Bayes and the  matrix-variate Dirichlet process
+arXiv:1602.08861, Title: Bayesian inference for age-structured population model of infectious  disease with application to varicella in Poland
+arXiv:1602.08927, Title: High-Dimensional $L_2$Boosting: Rate of Convergence
+arXiv:1602.08974, Title: Statistical models for dynamics in extreme value processes
+arXiv:1602.09013, Title: Beyond CCA: Moment Matching for Multi-View Models
+arXiv:1602.09053, Title: Bayesian estimation of airborne fugitive emissions using a Gaussian  plume model
+arXiv:1602.09082, Title: A comparison of two methods for detecting abrupt changes in the variance  of climatic time series
+arXiv:1602.09100, Title: Bayesian Variable Selection for Skewed Heteroscedastic Response
+arXiv:1602.09120, Title: Multi Snapshot Sparse Bayesian Learning for DOA Estimation
+arXiv:1602.09128, Title: Adjusted Empirical Likelihood for Time Series Models
+arXiv:1602.00061, Title: Spectrum Estimation from Samples
+arXiv:1602.00078, Title: Latent common manifold learning with alternating diffusion: analysis and  applications
+arXiv:1602.00203, Title: Greedy Deep Dictionary Learning
+arXiv:1602.00217, Title: Image Denoising with Kernels based on Natural Image Relations
+arXiv:1602.00223, Title: A Proximal Stochastic Quasi-Newton Algorithm
+arXiv:1602.00366, Title: Multi-Channel MAC Protocol for Full-Duplex Cognitive Radio Networks with  Optimized Access Control and Load Balancing
+arXiv:1602.00382, Title: Distributed Constrained Recursive Nonlinear Least-Squares Estimation:  Algorithms and Asymptotics
+arXiv:1602.00520, Title: Large Noise in Variational Regularization
+arXiv:1602.00542, Title: Cluster-Seeking James-Stein Estimators
+arXiv:1602.00661, Title: Detection and localization of change points in temporal networks with  the aid of stochastic block models
+arXiv:1602.00724, Title: Frank-Wolfe Works for Non-Lipschitz Continuous Gradient Objectives:  Scalable Poisson Phase Retrieval
+arXiv:1602.00734, Title: Learning Data Triage: Linear Decoding Works for Compressive MRI
+arXiv:1602.00795, Title: Gender, Productivity, and Prestige in Computer Science Faculty Hiring  Networks
+arXiv:1602.00853, Title: An analytic comparison of regularization methods for Gaussian Processes
+arXiv:1602.00877, Title: Partial Recovery Bounds for the Sparse Stochastic Block Model
+arXiv:1602.00904, Title: Comparative evaluation of state-of-the-art algorithms for SSVEP-based  BCIs
+arXiv:1602.00924, Title: (Quantum) Fractional Brownian Motion and Multifractal Processes under  the Loop of a Tensor Networks
+arXiv:1602.00933, Title: Disentangling Brain Graphs: A Note on the Conflation of Network and  Connectivity Analyses
+arXiv:1602.01107, Title: Do Cascades Recur?
+arXiv:1602.01130, Title: GraphPrints: Towards a Graph Analytic Method for Network Anomaly  Detection
+arXiv:1602.01164, Title: Single-Solution Hypervolume Maximization and its use for Improving  Generalization of Neural Networks
+arXiv:1602.01168, Title: Learning Discriminative Features via Label Consistent Neural Network
+arXiv:1602.01410, Title: A Framework for Fast Image Deconvolution with Incomplete Observations
+arXiv:1602.01462, Title: Bayesian Estimates of Astronomical Time Delays between Gravitationally  Lensed Stochastic Light Curves
+arXiv:1602.01557, Title: An ensemble diversity approach to supervised binary hashing
+arXiv:1602.01672, Title: The Generalised Isolation-With-Migration Model: a Maximum-Likelihood  Implementation for Multilocus Data Sets
+arXiv:1602.01815, Title: Exploiting plume structure to decode gas source distance using  metal-oxide gas sensors
+arXiv:1602.01818, Title: Random Feature Maps via a Layered Random Projection (LaRP) Framework for  Object Classification
+arXiv:1602.01889, Title: Discovering Neuronal Cell Types and Their Gene Expression Profiles Using  a Spatial Point Process Mixture Model
+arXiv:1602.02018, Title: Compressive Spectral Clustering
+arXiv:1602.02068, Title: From Softmax to Sparsemax: A Sparse Model of Attention and Multi-Label  Classification
+arXiv:1602.02136, Title: Reducing Runtime by Recycling Samples
+arXiv:1602.02151, Title: Exploiting the Structure: Stochastic Gradient Methods Using Raw Clusters
+arXiv:1602.02172, Title: On Column Selection in Approximate Kernel Canonical Correlation Analysis
+arXiv:1602.02185, Title: Sparse Kalman Filtering Approaches to Covariance Estimation from High  Frequency Data in the Presence of Jumps
+arXiv:1602.02196, Title: BISTRO: An Efficient Relaxation-Based Method for Contextual Bandits
+arXiv:1602.02210, Title: Classification Accuracy as a Proxy for Two Sample Testing
+arXiv:1602.02220, Title: Improved Dropout for Shallow and Deep Learning
+arXiv:1602.02256, Title: A Tractable Fully Bayesian Method for the Stochastic Block Model
+arXiv:1602.02262, Title: Recovery guarantee of weighted low-rank approximation via alternating  minimization
+arXiv:1602.02263, Title: DOLPHIn - Dictionary Learning for Phase Retrieval
+arXiv:1602.02283, Title: Importance Sampling for Minibatches
+arXiv:1602.02338, Title: Stratified Bayesian Optimization
+arXiv:1602.02389, Title: Ensemble Robustness and Generalization of Stochastic Deep Learning  Algorithms
+arXiv:1602.02450, Title: Loss factorization, weakly supervised learning and label noise  robustness
+arXiv:1602.02518, Title: Multi-view Kernel Completion
+arXiv:1602.02722, Title: PAC Reinforcement Learning with Rich Observations
+arXiv:1602.02823, Title: Poor starting points in machine learning
+arXiv:1602.02867, Title: Value Iteration Networks
+arXiv:1602.02912, Title: The Degree Distribution of Random Birth-and-Death Network with Network  Size Decline
+arXiv:1602.02915, Title: Calculus of the exponent of Kurdyka-Łojasiewicz inequality and its  applications to linear convergence of first-order methods
+arXiv:1602.02945, Title: The connected brain: Causality, models and intrinsic dynamics
+arXiv:1602.03061, Title: Minimum Conditional Description Length Estimation for Markov Random  Fields
+arXiv:1602.03105, Title: Graphical Model Sketch
+arXiv:1602.03146, Title: DCM Bandits: Learning to Rank with Multiple Clicks
+arXiv:1602.03244, Title: Development of a Computationally Optimized Model of Cancer-induced  Angiogenesis through Specialized Cellular Mechanics
+arXiv:1602.03283, Title: Performance Analysis of $l_0$ Norm Constrained Recursive Least Squares  Algorithm
+arXiv:1602.03351, Title: Adaptive Skills, Adaptive Partitions (ASAP)
+arXiv:1602.03434, Title: Impact of degree truncation on the spread of a contagious process on  networks
+arXiv:1602.03471, Title: Improved group testing rates with constant column weight designs
+arXiv:1602.03476, Title: Conditional Dependence via Shannon Capacity: Axioms, Estimators and  Applications
+arXiv:1602.03481, Title: Achieving Budget-optimality with Adaptive Schemes in Crowdsourcing
+arXiv:1602.03506, Title: Research Priorities for Robust and Beneficial Artificial Intelligence
+arXiv:1602.03551, Title: Knowledge Transfer with Medical Language Embeddings
+arXiv:1602.03571, Title: High Dimensional Inference with Random Maximum A-Posteriori  Perturbations
+arXiv:1602.03619, Title: Optimal Inference in Crowdsourced Classification via Belief Propagation
+arXiv:1602.03647, Title: On the Difficulty of Selecting Ising Models with Approximate Recovery
+arXiv:1602.03681, Title: Package equivalence in complex software network
+arXiv:1602.03765, Title: On methods for correcting for the look-elsewhere effect in searches for  new physics
+arXiv:1602.03828, Title: Community Recovery in Graphs with Locality
+arXiv:1602.03969, Title: Opportunistic Detection Rules: Finite and Asymptotic Analysis
+arXiv:1602.04003, Title: Bayesian smoothing of dipoles in Magneto-/Electro-encephalography
+arXiv:1602.04129, Title: Learning may need only a few bits of synaptic precision
+arXiv:1602.04208, Title: Pursuits in Structured Non-Convex Matrix Factorizations
+arXiv:1602.04259, Title: A Minimalistic Approach to Sum-Product Network Learning for Real  Applications
+arXiv:1602.04277, Title: Evaluation of Protein Structural Models Using Random Forests
+arXiv:1602.04283, Title: Deep Learning on FPGAs: Past, Present, and Future
+arXiv:1602.04302, Title: Convex Optimization for Linear Query Processing under Approximate  Differential Privacy
+arXiv:1602.04358, Title: Machine olfaction using time scattering of sensor multiresolution graphs
+arXiv:1602.04393, Title: Semantic Scan: Detecting Subtle, Spatially Localized Events in Text  Streams
+arXiv:1602.04434, Title: Frequency Analysis of Temporal Graph Signals
+arXiv:1602.04435, Title: Random Forest Based Approach for Concept Drift Handling
+arXiv:1602.04436, Title: Autoregressive Moving Average Graph Filtering
+arXiv:1602.04484, Title: Surprising properties of dropout in deep networks
+arXiv:1602.04485, Title: Benefits of depth in neural networks
+arXiv:1602.04511, Title: Learning Granger Causality for Hawkes Processes
+arXiv:1602.04567, Title: Adversarial Top-$K$ Ranking
+arXiv:1602.04621, Title: Deep Exploration via Bootstrapped DQN
+arXiv:1602.04706, Title: Energy-Efficient Time Synchronization Based on Asynchronous Source Clock  Frequency Recovery and Reverse Two-Way Message Exchanges in Wireless Sensor  Networks
+arXiv:1602.04723, Title: Efficient Representation of Low-Dimensional Manifolds using Deep  Networks
+arXiv:1602.04799, Title: Quantum Perceptron Models
+arXiv:1602.04938, Title: "Why Should I Trust You?": Explaining the Predictions of Any Classifier
+arXiv:1602.04951, Title: Q($λ$) with Off-Policy Corrections
+arXiv:1602.05063, Title: Measuring multivariate redundant information with pointwise common  change in surprisal
+arXiv:1602.05264, Title: Anomaly Detection in Clutter using Spectrally Enhanced Ladar
+arXiv:1602.05280, Title: Multifractality and Laplace spectrum of horizontal visibility graphs  constructed from fractional Brownian motions
+arXiv:1602.05305, Title: Simulation Study of an Energy-Efficient Time Synchronization Scheme  based on Source Clock Frequency Recovery in Asymmetric Wireless Sensor  Networks
+arXiv:1602.05310, Title: Large Scale Kernel Learning using Block Coordinate Descent
+arXiv:1602.05419, Title: Harder, Better, Faster, Stronger Convergence Rates for Least-Squares  Regression
+arXiv:1602.05642, Title: When the Filter Bubble Bursts: Collective Evaluation Dynamics in Online  Communities
+arXiv:1602.05702, Title: EEG-informed attended speaker extraction from recorded speech mixtures  with application in neuro-steered hearing prostheses
+arXiv:1602.05723, Title: The effects of marine protected areas over time and species dispersal  potential: A quantitative conservation conflict attempt
+arXiv:1602.05741, Title: Channel Covariance Estimation in Massive MIMO Frequency Division Duplex  Systems
+arXiv:1602.05807, Title: Distributions with fixed marginals maximizing the mass of the endograph  of a function
+arXiv:1602.05834, Title: Unfolding problem clarification and solution validation
+arXiv:1602.05897, Title: Toward Deeper Understanding of Neural Networks: The Power of  Initialization and a Dual View on Expressivity
+arXiv:1602.05908, Title: Efficient approaches for escaping higher order saddle points in  non-convex optimization
+arXiv:1602.06025, Title: Spectral Learning for Supervised Topic Models
+arXiv:1602.06053, Title: First-order Methods for Geodesically Convex Optimization
+arXiv:1602.06217, Title: Synchronization and functional central limit theorems for interacting  reinforced random walks
+arXiv:1602.06335, Title: A Machine Learning Approach to Forecasting Remotely Sensed Vegetation  Health
+arXiv:1602.06375, Title: Power-Distortion Metrics for Path Planning over Gaussian Sensor Networks
+arXiv:1602.06461, Title: Undermining and Strengthening Social Networks through Network  Modification
+arXiv:1602.06516, Title: Uniform Hypergraph Partitioning: Provable Tensor Methods and Sampling  Techniques
+arXiv:1602.06550, Title: Semi-Markov Switching Vector Autoregressive Model-based Anomaly  Detection in Aviation Systems
+arXiv:1602.06566, Title: Interactive Storytelling over Document Collections
+arXiv:1602.06604, Title: Detection of Cyber-Physical Faults and Intrusions from Physical  Correlations
+arXiv:1602.06632, Title: Denoising and Covariance Estimation of Single Particle Cryo-EM Images
+arXiv:1602.06662, Title: Recurrent Orthogonal Networks and Long-Memory Tasks
+arXiv:1602.06664, Title: A Geometric Analysis of Phase Retrieval
+arXiv:1602.06687, Title: An Effective and Efficient Approach for Clusterability Evaluation
+arXiv:1602.06725, Title: Variational inference for Monte Carlo objectives
+arXiv:1602.06746, Title: Convexification of Learning from Constraints
+arXiv:1602.06872, Title: Principal Component Projection Without Principal Component Analysis
+arXiv:1602.06929, Title: Streaming PCA: Matching Matrix Bernstein and Near-Optimal Finite Sample  Guarantees for Oja's Algorithm
+arXiv:1602.07120, Title: Submodular Learning and Covering with Response-Dependent Costs
+arXiv:1602.07207, Title: Systematic reviews in paediatric multiple sclerosis and  Creutzfeldt-Jakob disease exemplify shortcomings in methods used to evaluate  therapies in rare conditions
+arXiv:1602.07265, Title: Search Improves Label for Active Learning
+arXiv:1602.07291, Title: The IBM 2016 Speaker Recognition System
+arXiv:1602.07349, Title: Parsimonious modeling with Information Filtering Networks
+arXiv:1602.07428, Title: Max-Margin Nonparametric Latent Feature Models for Link Prediction
+arXiv:1602.07464, Title: Feature ranking for multi-label classification using Markov Networks
+arXiv:1602.07466, Title: Asymptotic consistency and order specification for logistic classifier  chains in multi-label learning
+arXiv:1602.07576, Title: Group Equivariant Convolutional Networks
+arXiv:1602.07630, Title: Online Dual Coordinate Ascent Learning
+arXiv:1602.07666, Title: Swap-invariant and exchangeable random measures
+arXiv:1602.07714, Title: Learning values across many orders of magnitude
+arXiv:1602.07764, Title: Reinforcement Learning of POMDPs using Spectral Methods
+arXiv:1602.07783, Title: Top-N Recommendation with Novel Rank Approximation
+arXiv:1602.07795, Title: Expectation Consistent Approximate Inference: Generalizations and  Convergence
+arXiv:1602.07807, Title: Data Cleaning for XML Electronic Dictionaries via Statistical Anomaly  Detection
+arXiv:1602.07860, Title: Probably Approximately Correct Greedy Maximization
+arXiv:1602.08007, Title: Practical Riemannian Neural Networks
+arXiv:1602.08017, Title: Meta-learning within Projective Simulation
+arXiv:1602.08080, Title: A Bayesian approach for energy-based estimation of acoustic aberrations  in high intensity focused ultrasound treatment
+arXiv:1602.08151, Title: Learning to Abstain from Binary Prediction
+arXiv:1602.08207, Title: Learning and Free Energies for Vector Approximate Message Passing
+arXiv:1602.08425, Title: Shape-aware Surface Reconstruction from Sparse 3D Point-Clouds
+arXiv:1602.08529, Title: Finding a Large Submatrix of a Gaussian Random Matrix
+arXiv:1602.08595, Title: Fast Gibbs sampling for high-dimensional Bayesian inversion
+arXiv:1602.08712, Title: On the entropy numbers of the mixed smoothness function classes
+arXiv:1602.08770, Title: New Statistical Perspective to The Cosmic Void Distribution
+arXiv:1602.08771, Title: Investigating practical linear temporal difference learning
+arXiv:1602.08886, Title: Collaborative Learning of Stochastic Bandits over a Social Network
+arXiv:1602.09118, Title: Easy Monotonic Policy Iteration
+arXiv:1602.07905, Title: Thompson Sampling is Asymptotically Optimal in General Environments
+arXiv:1602.05257, Title: Peak Criterion for Choosing Gaussian Kernel Bandwidth in Support Vector  Data Description
+arXiv:1602.06770, Title: Temporal correlations of the running maximum of a Brownian trajectory
+arXiv:1602.07844, Title: Fast Nonsmooth Regularized Risk Minimization with Continuation
